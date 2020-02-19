@@ -1,0 +1,9 @@
+C:\Users\Lordd\Desktop\pixels\pixels\bin\Debug\pixels.exe.config
+C:\Users\Lordd\Desktop\pixels\pixels\bin\Debug\pixels.exe
+C:\Users\Lordd\Desktop\pixels\pixels\bin\Debug\pixels.pdb
+C:\Users\Lordd\Desktop\pixels\pixels\obj\Debug\pixels.csprojAssemblyReference.cache
+C:\Users\Lordd\Desktop\pixels\pixels\obj\Debug\pixels.Form1.resources
+C:\Users\Lordd\Desktop\pixels\pixels\obj\Debug\pixels.Properties.Resources.resources
+C:\Users\Lordd\Desktop\pixels\pixels\obj\Debug\pixels.csproj.GenerateResource.cache
+C:\Users\Lordd\Desktop\pixels\pixels\obj\Debug\pixels.exe
+C:\Users\Lordd\Desktop\pixels\pixels\obj\Debug\pixels.pdb
