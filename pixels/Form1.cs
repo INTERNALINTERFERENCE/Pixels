@@ -33,6 +33,7 @@ namespace pixels
                 await Task.Run(() => { Processing(bitmap); });
                 sw.Stop();
                 Text = sw.Elapsed.ToString();
+                menuStrip1.Enabled = trackBar1.Enabled = true;
             }
         }
 
